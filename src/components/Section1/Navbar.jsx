@@ -6,9 +6,9 @@ const Navbar = () => {
       <div className="flex p-4 bg-amber-50 rounded-2xl w-3/5 mx-auto">
 
         {/* logo */}
-        <div className="w-1/4">
-          <h4>Portfolio</h4>
-        </div>
+     <h1 className="text-lg font-bold text-[#19c7f3] md:text-xl w-4/5">
+        Portfolio<span className="text-gray-700">.</span>
+      </h1>
 
         {/* menu */}
         <div className="flex gap-6">
